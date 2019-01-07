@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-ble-central-iotile-fork",
-  "version": "1.2.2",
+  "version": "1.2.3-rc.1",
   "description": "Bluetooth Low Energy (BLE) Central Plugin [IOTile Fork]",
   "cordova": {
     "id": "cordova-plugin-ble-central-iotile-fork",
